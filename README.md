@@ -6,4 +6,5 @@
 4. input_folder_path: data, data_more
 5. query_file_path: query, query_more
 6. output_filename: query_output
+7. test datasets example: ./essay_search data_more query_more query_output.txt
         
